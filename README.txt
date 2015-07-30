@@ -1,6 +1,6 @@
 === WPUF Login Redirect ===
 Contributors: nazmulhassann20
-Tags: login, redirect, WP User Fronted, WPUF, User redirect
+Tags: login, redirect, WP User Frontend, WPUF, User redirect
 Requires at least: 3.3
 Tested up to: 4.2.3
 Stable tag: 0.1
