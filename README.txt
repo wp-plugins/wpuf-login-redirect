@@ -7,7 +7,9 @@ Stable tag: 0.1
 
 ## Description ##
 
-In Wp user fronted pro user can be redirected to a specific page after login. Admin can select any page from backend settings of Wp user fronted pro to redirect the user.
+In Wp user fronted pro user can be redirected to a specific page after login. Admin can select any page from backend settings of Wp user fronted pro to redirect the user. 
+
+This plugin gives you the ability to redirect user of Wp user frontend to specific page. You can set the page from the parent (WP User Frontend) plugin settings.
 
 ### Features:  ###
 1. Redirect user to specific page.
