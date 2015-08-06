@@ -22,6 +22,11 @@ Author:  [@nayemDevs](https://twitter.com/nayemDevs)
 2. Please navigate to Wp admin->Plugins->Add new. Browse the plugin file and install it. 
 3. After activating the plugin you will get option in WP User Frontend->Settings->General->Select redirect page.
 
+
+== Screenshots ==
+1. Please navigate to WP User Fronted -> Settigs->General (Backend Option)
+
+
 == Frequently Asked Questions ==
 
 = Can I set redirect page from backend =
