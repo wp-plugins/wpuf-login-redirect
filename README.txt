@@ -11,6 +11,8 @@ In Wp user fronted pro user can be redirected to a specific page after login. Ad
 
 This plugin gives you the ability to redirect user of Wp user frontend to specific page. You can set specific page from the parent (WP User Frontend) plugin settings to redirect your user.
 
+Author:  [@nayemDevs](https://twitter.com/nayemDevs)
+
 ### Features:  ###
 1. Redirect user to specific page.
 2. Admin can see the page list to select one of them to redirect 
