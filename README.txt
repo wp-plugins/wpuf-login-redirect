@@ -18,7 +18,7 @@ Author:  [@nayemDevs](https://twitter.com/nayemDevs)
 2. Admin can see the page list to select one of them to redirect 
 
 == Installation ==
-1. You have to install the parent plugin WP User Frontend - https://WordPress.org/plugins/wp-user-frontend. 
+1. You have to install the parent plugin [WP User Frontend](https://WordPress.org/plugins/wp-user-frontend).
 2. Please navigate to Wp admin->Plugins->Add new. Browse the plugin file and install it. 
 3. After activating the plugin you will get option in WP User Frontend->Settings->General->Select redirect page.
 
